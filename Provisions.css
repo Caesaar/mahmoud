@@ -1,116 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
-html, body {
-  margin: 0px;
-  background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url(img/324564dbf18b791cfd14dc61640332cd9883260c.webp);
-  background-size: cover;
-  background-position: center center;
-  position: relative;
-  font-family: 'poppins', sans-serif;
-  top: 0;
-  bottom: 0;
-  z-index: -10;
-  background-attachment: fixed;
-  height: 100%;
-  position: absolute;
-  background-color: rgba(0,0,0,0.4);
-} 
-#mahmoud{
-  direction: rtl;
-}
-#about {
-    background-attachment: fixed;
-    height: auto;
-    width: 100%;
-    text-align: center;
-    margin: 0 auto;
-    color: ghostwhite;
-}
-.about-c{
-    font-size: 30px;
-    position: relative;
-    color: floralwhite;
-    line-height: 50px;
-}
-span.old{
-    text-decoration: line-through;
-    color: #f00;
-    font-size: bold;
-    font-size: 20px;
-}
-span.new{
-    color: #0fa0e8;
-    font-size: bold;
-    font-size: 20px;
-}
-.about h1{
-    text-decoration: underline;
-}
-#about-p {
-    padding-top: 10px;
-    line-height: 3;
-    font-size: 17px;
-    list-style-type: none;
-    text-align: right;
-    padding-right: 16px;
-    font-weight: bold;
-    list-style-type: decimal;
-    list-style-position: outside right;
-}
-.about-p1{
-    font-weight: bold;
-}
-
-.about-p2{
-    animation-delay: 2s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.about-p3{
-    animation-delay: 3s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.about-p4{
-    animation-delay: 4s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-
-.about-p5{
-    animation-delay: 5s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.about-p6{
-    animation-delay: 6s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.about-p7{
-    animation-delay: 7s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.about-p8{
-    animation-delay: 8s;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-}
-.cta {
-    width: 190px;
-    height: 50px;
-    margin: 20px;
-    border-radius: 30px;
-    background-color: #253342;
-    color: white;
-    font-size: 120%;
-    box-shadow: 0 5px #999;
-    border: none;
-    cursor: pointer;
-}.cta:active{
-    box-shadow: 0px 0px #666;
-    transform: translateY(5px)
-}
-.col-12 h2 {
-    color: aliceblue;
-}
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');html,body{margin:0;background:linear-gradient(rgba(26,26,26,0.7),rgba(26,26,26,0.7)),url(https://www.ionlinehost.com/img/324564dbf18b791cfd14dc61640332cd9883260c.webp);background-size:cover;background-position:center center;position:relative;font-family:'poppins',sans-serif;top:0;bottom:0;z-index:-10;background-attachment:fixed;height:100%;position:absolute;background-color:rgba(0,0,0,0.4)}
+#mahmoud{direction:rtl}
+#about{background-attachment:fixed;height:auto;width:100%;text-align:center;margin:0 auto;color:ghostwhite}
+.about-c{font-size:30px;position:relative;color:floralwhite;line-height:50px}
+span.old{text-decoration:line-through;color:#f00;font-size:bold;font-size:20px}
+span.new{color:#0fa0e8;font-size:bold;font-size:20px}
+.about h1{text-decoration:underline}
+#about-p{padding-top:10px;line-height:3;font-size:17px;list-style-type:none;text-align:right;padding-right:16px;font-weight:bold;list-style-type:decimal;list-style-position:outside right}
+.about-p1{font-weight:bold}
+.about-p2{animation-delay:2s;animation-duration:4s;animation-iteration-count:1}
+.about-p3{animation-delay:3s;animation-duration:4s;animation-iteration-count:1}
+.about-p4{animation-delay:4s;animation-duration:4s;animation-iteration-count:1}
+.about-p5{animation-delay:5s;animation-duration:4s;animation-iteration-count:1}
+.about-p6{animation-delay:6s;animation-duration:4s;animation-iteration-count:1}
+.about-p7{animation-delay:7s;animation-duration:4s;animation-iteration-count:1}
+.about-p8{animation-delay:8s;animation-duration:4s;animation-iteration-count:1}
+.cta{width:190px;height:50px;margin:20px;border-radius:30px;background-color:#253342;color:white;font-size:120%;box-shadow:0 5px #999;border:none;cursor:pointer}
+.cta:active{box-shadow:0 0 #666;transform:translateY(5px)}
+.col-12 h2{color:aliceblue}
