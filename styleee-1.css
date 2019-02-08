@@ -1,0 +1,359 @@
+.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg,
+.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.uban.borderg,
+.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.ukick.borderg,
+.fl.fa.fa-urkickuser-times.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.borderg,
+.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.udelpic.borderg,
+.fl.fa.fa-search.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.uh.borderg,
+.fl.fa.fa-diamond.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.ugift.borderg,
+.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg,
+.fl.fa.fa-heart.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.ulike.borderg,
+.fl.fa.fa-envelope-o.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.unot.borderg {
+    background: linear-gradient(163deg, #ffffff 0%, #962749 100%) !important;
+    border-radius: 7px 7px 7px 7px;
+    border: 1px solid #f0ad4e;
+    controls: collapseExample;
+}
+
+.checkbox {
+    margin-top: -80px !important;
+    margin-left: -83px !important;
+    position: fixed;
+    float: right;
+    /* margin-right: 100px!important;*/
+}
+
+div#l1 button {
+    border-radius: 0px 0px 15px 15px;
+    width: 50%;
+    height: 30px;
+    margin-left: 180px;
+}
+
+div#l3 button {
+    border-radius: 0px 0px 15px 15px;
+    width: 50%;
+    height: 30px;
+    margin-left: 180px;
+}
+
+div#l2 button {
+    border-radius: 0px 0px 15px 15px;
+    width: 50%;
+    height: 30px;
+    margin-left: 180px;
+}
+
+input#u2,
+input#u1,
+input#u3 {
+    text-align: center;
+    border: 2px solid #4682B4;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: 180px;
+    width: 50% !important;
+    margin-top: 40px;
+}
+
+input#pass1,
+input#pass2 {
+    text-align: center;
+    border: 2px solid #4682B4;
+    border-radius: 4px;
+    width: 50% !important;
+    margin-left: 180px;
+    margin-top: 3px;
+}
+
+div#l2,
+div#l3 {
+    padding: 2px !important;
+}
+
+div#l1 {
+    height: 120px;
+    margin: 0px 1px -18px 1px;
+    padding: 0px !important;
+}
+
+div#l3 br,
+div#l2 br {
+    display: none;
+}
+
+div#l2,
+div#l3,
+div#l1 {
+    border-bottom: 2px solid;
+    margin-bottom: 2px;
+    border-top: 3px solid;
+    margin-top: 3px;
+    border-color: #108378;
+    border-radius: 15px 15px 0px 0px;
+    height: 150px;
+}
+
+a.label.label-primary.fl img.fl {
+    display: none;
+}
+
+.mahmoud {
+    background-color: #fff;
+    border-radius: 15px 15px 15px 15px;
+    font-family: 'jazeera', FontAwesome;
+    padding: 2px 10px 2px 10px;
+    margin: 7px 10px 7px 10px;
+}
+
+#mahmooud {
+    margin-bottom: 2px;
+    font-family: 'jazeera-light', FontAwesome;
+    background: linear-gradient(163deg, #ffffff 0%, #962749 100%) !important;
+}
+
+a.label.label-primary.fl {
+    width: 68% !important;
+    border-radius: 5px !important;
+    margin: 5px -4px;
+    padding: 3px !important;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-family: 'jazeera', FontAwesome;
+    font-size: 13px !important;
+    text-align: center !important;
+
+}
+
+span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
+    font-size: 12px !important;
+}
+
+button.btn.fr.btn-success.fa.fa-refresh {
+    padding: 0px;
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, #4682B4 0, #093e6b 100%);
+    border-color: #0b5ca2;
+}
+
+label.label.label-primary.mini.fl {
+    width: 34% !important;
+    padding: 1px;
+    border-radius: 0px 0px 0px 5px !important;
+    margin-top: -3px;
+    float: right;
+}
+
+.fr.borderg {
+    padding: 1px;
+    border-radius: 0px 0px 5px 0px !important;
+    margin-top: -3.50px;
+    background-color: #4682B4 !important;
+    border: .1px solid #4682B4;
+    float: left;
+    color: #fff;
+    height: 20.40px;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+    color: #4682B4;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.nav-tabs > li:hover {
+    background-color: #4682B4;
+}
+
+.nav-tabs > li > a:hover {
+    border-color: #ffffff #eee #ddd;
+    border: 2px solid;
+    background-color: #4a97ec;
+    color: #ffffff;
+}
+
+.nav-tabs > li {
+    background: #A6F0FF;
+    -webkit-animation: mymove 1s infinite;
+    /* Chrome, Safari, Opera */
+    animation: mymove 1s infinite;
+    width: 33%;
+    border: 1px solid #a7a4a4;
+    margin-left: 1px;
+    border-radius: 6px 6px 0 0;
+    height: 40px !important;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {
+        background-color: #A6F0FF;
+    }
+
+    to {
+        background-color: white;
+    }
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    from {
+        background-color: #A6F0FF;
+    }
+
+    to {
+        background-color: white;
+    }
+}
+
+.nav-tabs > li > a {
+    color: #ffffff;
+    margin: auto auto;
+    border: 1px solid #0b3361;
+    text-align: center;
+    background-color: #4682B4;
+    width: 96%;
+    height: 90% !important;
+    margin-top: 2px;
+    padding: 5px 0px !important;
+    font-family: 'jazeera', FontAwesome;
+}
+
+span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
+    font-size: 12px !important;
+}
+
+button.btn.fr.btn-success.fa.fa-refresh {
+    padding: 0px;
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, #4682B4 0, #093e6b 100%);
+    border-color: #0b5ca2;
+}
+
+.mahmouud,
+.mahmouud {
+    font-family: 'jazeera', FontAwesome;
+    font-size: 13px !important;
+    padding: 2px 2px 0 !important;
+    text-align: center !important;
+    color: #fff !important;
+    border-radius: 15px 15px 15px 15px;
+    background-image: radial-gradient(circle, #dc354580, #00dcff) !important;
+    border: 1px solid #f0ad4e;
+}
+
+.btn-primary,
+.label-primary,
+.dpnl.bg.tab-content,
+.label.label-danger.border.nosel.fa.fa-close.fr,
+.fr.borderg {
+    background: linear-gradient(163deg, #dc354580 0%, #00dcff 100%) !important;
+    border: 1px solid #f0ad4e;
+    background-color: #dc354580 !important;
+
+}
+
+div#tlogins img.fr.co {
+    float: right;
+    display: inline;
+    margin-top: 13px;
+    margin-left: 3px;
+    width: 20px !important;
+    height: 20px;
+    position: static;
+    border-radius: 15px !important
+}
+
+.fr.co {
+    float: left;
+    display: inline;
+    margin-top: 50px;
+    margin-left: 6px;
+    width: 15px !important;
+    height: 15px;
+    position: static;
+    border-radius: 5px !important
+}
+
+img.fitimg.fl.u-pic {
+    border: 1px solid #373A91;
+    border-radius: 19px;
+}
+
+div#users img.fl.ustat {
+    border-radius: 37px 37px 5px 37px;
+    margin: 0;
+    margin-right: -38.5px;
+    margin-top: -1px;
+    width: 39px !important;
+    height: 39px !important;
+}
+
+label.fl.label.loginstat {
+    float: right !important;
+    border-radius: 5px !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 5px -4px;
+    padding: 1px 8px 4px !important;
+    margin-top: 5px;
+    font-family: 'jazeera', FontAwesome;
+    font-size: 13px !important;
+}
+
+.label.tc.border.btn.fl,
+.label.tc.border.btn.fl {
+    background: linear-gradient(163deg, #ffffff 0%, #962749 100%) !important;
+    border-radius: 11px 11px 3px 12px;
+    border: 1px solid #f0ad4e;
+}
+
+.ae.br.fa.roomsTrigger,
+.ae.br.fa.convsTrigger.conversations_a,
+.ae.br.fa.publicTrigger.wall_a {
+    border-radius: 15px 0px 0px 15px;
+    padding: 7px 10px;
+}
+
+.ae.br.fa.settingsTrigger,
+.ae.br.fa.onlineTrigger {
+    border-radius: 0px 15px 15px 0px;
+    padding: 7px 10px;
+}
+
+
+.main-chat-interface>ul li .user-avatar,
+#onlineUsers li .user-avatar img, 
+#public li .user-avatar img,
+#rooms li .user-avatar img
+{
+    border-radius: 15px 15px 15px 15px;
+}
+.main-chat-interface>ul li {
+   border: 2px solid #8e0e0e;
+   border-radius: 37px 37px 5px 37px; 
+}
+#onlineUsers ul, #public ul {
+    border: 2px solid #8e0e0e;
+    border-radius: 20px 5px 20px 20px;
+}
+#onlineUsers li, #public li {
+    border: 2px solid #8e0e0e;
+    border-radius: 15px 5px 0px 20px;
+}
+#rooms li,
+#rooms .active {
+    background: #ffffff;
+    border-radius: 8px 5px 0px 8px;
+    border: 2px solid #8e0e0e;
+}
+li.btn.btn-default {
+    border-radius: 15px 15px 15px 15px;
+}    
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover,
+.btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, 
+.open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, 
+.open>.dropdown-toggle.btn-default:hover {
+    border-radius: 37px 37px 5px 37px;
+}    
